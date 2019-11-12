@@ -5,7 +5,7 @@ all the possible times that the command (provided as an argument) will be schedu
 
 ## Getting Started
 
-Simply unzip the file provided.
+Simply `git clone` the repository into a directory of your choosing
 
 ### Prerequisites
 
