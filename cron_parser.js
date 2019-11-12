@@ -21,7 +21,6 @@ const totals = new Map([
 function createList(start, finish, increments) {
   var result = [];
 
-
   for(var i = parseInt(start); i <= parseInt(finish); i += parseInt(increments)) {
     result.push(i);
   };
